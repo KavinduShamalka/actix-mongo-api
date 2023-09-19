@@ -1,0 +1,1 @@
+pub mod user_model; //register the user_model.rs
